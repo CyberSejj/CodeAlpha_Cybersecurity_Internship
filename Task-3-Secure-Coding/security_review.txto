@@ -1,0 +1,83 @@
+CODEALPHA CYBERSECURITY INTERNSHIP
+TASK 3 – SECURE CODING REVIEW
+
+Name: Sejal Devi
+Batch: September 2026
+
+
+1. PROJECT OVERVIEW
+
+This project demonstrates a secure coding review of a simple Python login application.
+
+The application uses SQLite to check a username and password. Two versions were created:
+
+- vulnerable_app.py – original version containing a security vulnerability
+- secure_app.py – improved version using a secure SQL query
+
+
+2. VULNERABILITY IDENTIFIED
+
+Vulnerability: SQL Injection
+
+The original application builds the SQL query by directly concatenating user-provided username and password values.
+
+Vulnerable code:
+
+query = "SELECT * FROM users WHERE username = '" + username + "' AND password = '" + password + "'"
+
+This allows user input to become part of the SQL statement.
+
+
+3. SECURITY RISK
+
+Directly combining user input with an SQL query can allow specially crafted input to change the intended meaning of the query.
+
+Potential impact includes:
+
+- Unauthorized database access
+- Authentication bypass
+- Exposure or modification of database information
+- Increased risk to applications using similar coding practices
+
+
+4. SECURE CODING FIX
+
+The vulnerable query was replaced with a parameterized SQL query.
+
+Secure code:
+
+query = "SELECT * FROM users WHERE username = ? AND password = ?"
+
+cursor.execute(query, (username, password))
+
+Parameterized queries separate SQL instructions from user-provided data.
+
+This prevents user input from being interpreted as part of the SQL command.
+
+
+5. TESTING
+
+The secure application was tested using the valid practice account:
+
+Username: testuser
+Password: test123
+
+Result:
+
+Login successful!
+
+
+6. FILES CREATED
+
+- vulnerable_app.py
+- secure_app.py
+- setup_db.py
+- users.db
+- security_review.txt
+
+
+7. CONCLUSION
+
+The secure coding review identified an SQL Injection vulnerability in the original login application.
+
+The vulnerability was corrected by using a parameterized SQL query. The secure version was tested successfully and continued to provide the intended login functionality.
