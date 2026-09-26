@@ -1,0 +1,69 @@
+CODEALPHA - PHISHING ANALYSIS CHECKLIST
+
+TRAINING MESSAGE ANALYSIS
+
+1. SENDER ANALYSIS
+Question:
+Does the sender address belong to the legitimate organization?
+
+Finding:
+A suspicious or unrelated sender domain can indicate phishing.
+
+2. URGENCY
+Question:
+Does the message pressure the recipient to act immediately?
+
+Finding:
+Urgent language is commonly used to make users act without
+carefully checking the request.
+
+3. REQUEST FOR INFORMATION
+Question:
+Does the message request passwords, OTPs, banking details,
+or other sensitive information?
+
+Finding:
+Legitimate organizations generally should not request
+passwords or OTPs through ordinary email messages.
+
+4. LINK ANALYSIS
+Question:
+Does the message contain a suspicious or unexpected link?
+
+Finding:
+Links should be checked carefully before being opened.
+The safest approach is to access the organization's official
+website independently.
+
+5. ATTACHMENTS
+Question:
+Does the message contain an unexpected attachment?
+
+Finding:
+Unexpected attachments may contain malicious content and
+should not be opened without verification.
+
+6. LANGUAGE AND FORMATTING
+Question:
+Does the message contain unusual spelling, grammar, formatting,
+or wording?
+
+Finding:
+Unusual language can be an indicator of a fraudulent message.
+
+7. SAFE RESPONSE
+- Do not click suspicious links.
+- Do not open unexpected attachments.
+- Do not provide passwords or OTPs.
+- Verify the request independently.
+- Report the message as phishing.
+- Delete it after reporting.
+
+FINAL ASSESSMENT
+
+The training example contains multiple phishing indicators:
+urgency, an unverified sender, a request for account verification,
+and a suspicious link.
+
+This example is for cybersecurity awareness and does not collect
+credentials or personal information.

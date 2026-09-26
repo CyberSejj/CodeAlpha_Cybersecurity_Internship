@@ -1,0 +1,37 @@
+CODEALPHA PHISHING AWARENESS - TRAINING EXAMPLE
+
+Subject: Urgent: Your Account Will Be Suspended
+
+From: security-alert@example-training.com
+
+Dear User,
+
+We detected unusual activity on your account.
+
+Your account will be suspended unless you verify your
+information immediately.
+
+Please verify your account using the link below:
+
+[TRAINING LINK - DO NOT CLICK]
+
+Thank you,
+Account Security Team
+
+
+PHISHING WARNING SIGNS:
+
+1. The message creates urgency and fear.
+2. The sender address is not an official company address.
+3. It asks the recipient to verify account information.
+4. The message contains a suspicious link.
+5. The recipient should independently visit the official
+   website instead of using the provided link.
+
+SAFE ACTION:
+
+Do not click the link.
+Do not enter your password or OTP.
+Verify the request through the organization's official
+website or known contact method.
+Report the message as phishing.

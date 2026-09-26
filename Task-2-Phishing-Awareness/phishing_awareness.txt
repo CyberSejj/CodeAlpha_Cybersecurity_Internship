@@ -1,0 +1,105 @@
+CODEALPHA - PHISHING AWARENESS TRAINING
+
+1. WHAT IS PHISHING?
+
+Phishing is a social engineering attack in which an attacker
+pretends to be a trusted person, company, or service to trick
+a victim into revealing sensitive information or performing
+an unsafe action.
+
+Common targets include:
+- Passwords
+- Banking information
+- OTPs
+- Personal information
+- Account credentials
+
+
+2. COMMON TYPES OF PHISHING
+
+Email Phishing:
+Fraudulent emails designed to look like legitimate messages.
+
+Spear Phishing:
+A targeted phishing attack aimed at a specific person or organization.
+
+Smishing:
+Phishing performed through SMS or text messages.
+
+Vishing:
+Phishing performed through phone calls or voice communication.
+
+Social Media Phishing:
+Fake messages, profiles, or links used through social media platforms.
+
+
+3. WARNING SIGNS OF PHISHING
+
+- Unexpected messages
+- Urgent or threatening language
+- Suspicious sender addresses
+- Misspelled words or unusual formatting
+- Suspicious links
+- Requests for passwords or OTPs
+- Unexpected attachments
+- Offers that appear too good to be true
+- Requests to bypass normal security procedures
+
+
+4. HOW TO CHECK A SUSPICIOUS MESSAGE
+
+1. Check the sender's email address or phone number.
+2. Do not immediately click links.
+3. Hover over links on a computer to inspect the destination.
+4. Verify the request using an official website or known contact.
+5. Check for unusual spelling or grammar.
+6. Be suspicious of unexpected attachments.
+7. Never share passwords or OTPs through email or messages.
+
+
+5. SAFE RESPONSE TO PHISHING
+
+If you receive a suspicious message:
+
+- Do not click suspicious links.
+- Do not download unexpected attachments.
+- Do not provide passwords or OTPs.
+- Verify the message through an official channel.
+- Report the message as phishing/spam.
+- Delete the message after reporting it.
+
+
+6. PHISHING AWARENESS EXAMPLE
+
+SAFE TRAINING EXAMPLE:
+
+Subject: Urgent Account Verification Required
+
+Example message:
+
+"Your account requires verification. Please review your
+account through the official website or official application."
+
+Warning signs to discuss:
+- Unexpected request
+- Urgency
+- Request to verify an account
+- Link should be independently verified rather than clicked
+
+
+7. PHISHING PREVENTION
+
+- Use strong, unique passwords.
+- Enable multi-factor authentication.
+- Keep software and browsers updated.
+- Use security software.
+- Verify unexpected requests.
+- Learn to identify suspicious links and attachments.
+- Report suspected phishing attempts.
+
+
+8. CONCLUSION
+
+Phishing attacks rely heavily on deception and social engineering.
+Users should slow down, verify unexpected requests, avoid suspicious
+links and attachments, and report suspected phishing attempts.
